@@ -14,7 +14,7 @@ $(document).ready(function () {
   headerHtml += '<div class="row">';
   headerHtml += '<div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">';
   headerHtml += '<ul>';
-  headerHtml += '<li><a href="#"><i class="fa fa-facebook"></i></a></li>';
+  headerHtml += '<li><a href="https://www.facebook.com/Steel-Sales-India-Ltd-880981365615683" target="_blank"><i class="fa fa-facebook"></i></a></li>';
   headerHtml += '<li><a href="#"><i class="fa fa-twitter"></i></a></li>';
   headerHtml += '<li><a href="#"><i class="fa fa-instagram"></i></a></li>';
   headerHtml += '</ul>';
@@ -69,7 +69,7 @@ $(document).ready(function () {
   footerHtml += '<h6>Follow Us</h6>';
   footerHtml += '<p>Let us be social</p>';
   footerHtml += '<div class="footer-social d-flex align-items-center">';
-  footerHtml += '<a href="#"><i class="fa fa-facebook"></i></a>';
+  footerHtml += '<a href="https://www.facebook.com/Steel-Sales-India-Ltd-880981365615683" target="_blank"><i class="fa fa-facebook"></i></a>';
   footerHtml += '<a href="#"><i class="fa fa-twitter"></i></a>';
   footerHtml += '<a href="#"><i class="fa fa-instagram"></i></a>';
   footerHtml += '</div>';
