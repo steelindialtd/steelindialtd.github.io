@@ -37,7 +37,7 @@
   // The location of Uluru, 
   var uluru = {lat: 30.876076, lng: 75.950144};
   var map = new google.maps.Map(
-      document.getElementById('map-wrap'), {zoom: 18, center: uluru});
+      document.getElementById('map'), {zoom: 18, center: uluru});
   // The marker, positioned at Uluru
   var marker = new google.maps.Marker({position: uluru, map: map});
 }
@@ -68,7 +68,7 @@
     <section class="contact-page-area section-gap">
         <div class="container">
             <div class="row">
-                <div class="map-wrap" id="map-wrap" style="width:100%; height: 445px;" id="map"></div>
+                <div id="map" style="width:100%; height: 445px;" id="map"></div>
                 <div class="col-lg-4 d-flex flex-column address-wrap">
                     <div class="single-contact-address d-flex flex-row">
                         <div class="icon">
